@@ -1,0 +1,23 @@
+{
+  "name": "v_tuber_thing",
+  "version": "0.0.1",
+  "description": "app for vtubers to match phenetics to a png",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "git":[
+      "https://github.com/vulbyte/vTuberThing.git"
+  ],
+  "keywords": [
+      "vtuber", "pngTuber", "tuber", "png", "v", "vulbyte"
+  ],
+  "author": "vulbyte",
+  "license": "SEE LICENSE IN license.md",
+  "devDependencies": {
+    "electron": "^30.0.4"
+  },
+  "scripts":{
+    "start": "electron ."
+  }
+}
